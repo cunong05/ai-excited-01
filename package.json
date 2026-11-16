@@ -1,1 +1,1 @@
-{"description":"Phoenix Rising Over Neon City — entry for the make.fun ai-excited-01 bounty","license":"MIT","name":"ai-excited-01","type":"module","version":"1.0.0"}
+{"author":"cunong05","description":"Phoenix Rising Over Neon City — entry for the make.fun bounty ai-excited-01","license":"MIT","main":"main.ts","name":"ai-excited-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
